@@ -1,6 +1,6 @@
 # Kirubel Abraham (Kay)
 
-Product Advocate, Expansion at Apify, Prague. Ten years between the people who buy software and the people who build it. Lately, building it too.
+Product Advocate, Expansion at Apify, Prague. Ten years between the people who buy software and the people who build it. Now I do both.
 
 **[kayabraham.com](https://kayabraham.com)** has the full write-up of every machine below, with a working diagram of each.
 
